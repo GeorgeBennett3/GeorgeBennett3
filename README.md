@@ -8,4 +8,6 @@ I am skilled in:
 * Javascript, Node.js
 * SQL, SQLite3, Postgres
 * HTML, CSS
+* Bash, Git, GitGub
+* VS Code, Jupyter Notebook
 
