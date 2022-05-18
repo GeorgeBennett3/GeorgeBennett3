@@ -1,5 +1,5 @@
 # Greetings
-My name is George Bennett. I am an aspiring software engineer. Currently I work as a data support analyist. In 2020 I finished a datascience bootcamp with<a href="flatironschool.com"> Flat Iron School</a> More from me in the future!
+My name is George Bennett. I am an aspiring software engineer. Currently I work as a data support analyist. In 2020 I finished a datascience bootcamp with<a href="flatironschool.com"> Flat Iron School</a>. More from me in the future!
 
 
 ## Skills
